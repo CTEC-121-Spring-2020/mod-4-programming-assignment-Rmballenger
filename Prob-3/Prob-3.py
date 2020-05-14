@@ -2,9 +2,11 @@
 #   Programming Assignment 6
 #       Prob-3.py
 
-# <YOUR NAME>
+# Robert Ballenger
+
 
 def main():
-    pass # remove this line
+    pass  # remove this line
 
-main()    
+
+main()
