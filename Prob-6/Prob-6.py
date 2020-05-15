@@ -2,7 +2,9 @@
 #   Programming Assignment 6
 #       Prob-6.py
 
-# <YOUR NAME>
+# Robert Ballenger
+
+from graphics import *
 
 def main():
     pass # remove this line 
